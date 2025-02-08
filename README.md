@@ -1,6 +1,6 @@
 l# Btach-PlayfabSpammer
 🔥 Update Log - PlayFab Account Creator Script 🔥
-Version: 1.1 – Optimized for Stability & Efficiency
+Version: 1.1 – Optimized for Stability & Efficiency 
 
 📅 Release Date: February 2025
 
